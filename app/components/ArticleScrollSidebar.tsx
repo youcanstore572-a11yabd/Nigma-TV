@@ -137,18 +137,18 @@ export default function ArticleScrollSidebar({
 
             <div className="space-y-3">
               {/* Standard */}
-              <div className="group bg-[#0B2347]/5 text-[#0B2347] border border-[#0B2347]/15 rounded-none p-4 hover:border-[#2AD1A1] hover:-translate-y-0.5 transition-all shadow-sm">
+              <div className="group bg-[#D9DBDD] text-[#000] border border-[#FFD700] rounded-none p-4 hover:border-[#2AD1A1] hover:-translate-y-0.5 transition-all shadow-sm">
                 <div className="flex items-center justify-between mb-2">
                   <div className="flex items-center gap-2">
-                    <div className="w-7 h-7 rounded-none bg-[#2AD1A1]/10 flex items-center justify-center">
-                      <Zap className="w-4 h-4 text-[#2AD1A1]" />
+                    <div className="w-7 h-7 rounded-none bg-[#000] flex items-center justify-center">
+                      <Zap className="w-4 h-4 text-[#FFD700]" />
                     </div>
-                    <span className="text-[#0B2347] font-black text-sm uppercase tracking-tight">
+                    <span className="text-[#000] font-black text-sm uppercase tracking-tight">
                       Standard
                     </span>
                   </div>
                   <div className="text-right">
-                    <div className="text-[#2AD1A1] font-black text-xl leading-none">
+                    <div className="text-[#000] font-black text-xl leading-none">
                       $35
                     </div>
                     <div className="text-[9px] font-black uppercase tracking-wider text-[#0B2347]/60 mt-0.5">
@@ -157,7 +157,7 @@ export default function ArticleScrollSidebar({
                   </div>
                 </div>
                 <div className="flex items-center gap-2 mb-3 text-[10px] font-bold text-[#0B2347]/80">
-                  <CheckCircle2 className="w-3 h-3 text-[#2AD1A1]" />
+                  <CheckCircle2 className="w-3 h-3 text-[#000]" />
                   <span>Set up on chat in minutes</span>
                 </div>
                 <a

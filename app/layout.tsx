@@ -206,7 +206,7 @@ export default function RootLayout({
         <Footer />
 
         <FloatingWhatsApp />
-        <GoogleAnalytics gaId="G-5YBRX123P1" />
+        <GoogleAnalytics gaId="G-YHDKT8ZB2Q" />
       </body>
     </html>
   );
