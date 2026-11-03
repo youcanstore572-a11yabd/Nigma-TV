@@ -11,7 +11,7 @@ export interface BlogPost {
   author: string;
   keywords: string[];
   image: string;
-  category?: 'setup' | 'review' | 'sports' | 'tips' | 'news' | 'Guide';
+  category?: 'setup' | 'review' | 'sports' | 'tips' | 'news' | 'guide';
   readTime?: string;
   featured?: boolean;
 }
@@ -2151,7 +2151,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "Thinking about choosing Nigma IPTV? This final guide explains what to evaluate, the advertised features, possible limitations, subscription conditions, and how to make a more informed decision.",
   date: "2026-11-03",
   author: "Olivia",
-  category: "Guide",
+  category: "guide",
   readTime: "9 min read",
   image: "/img/blog/article-04/cover.webp",
   keywords: [
