@@ -11,7 +11,7 @@ export interface BlogPost {
   author: string;
   keywords: string[];
   image: string;
-  category?: 'setup' | 'review' | 'sports' | 'tips' | 'news';
+  category?: 'setup' | 'review' | 'sports' | 'tips' | 'news' | 'Guide';
   readTime?: string;
   featured?: boolean;
 }
@@ -738,7 +738,7 @@ export const blogPosts: BlogPost[] = [
     "iptv streaming service"
   ],
   image: "/img/blog/article-02/cover.webp",
-  category: "iptv-guide",
+  category: "guide",
   readTime: "12 min read",
   featured: false,
   content: `
@@ -2151,7 +2151,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "Thinking about choosing Nigma IPTV? This final guide explains what to evaluate, the advertised features, possible limitations, subscription conditions, and how to make a more informed decision.",
   date: "2026-11-03",
   author: "Olivia",
-  category: "IPTV Guides",
+  category: "Guide",
   readTime: "9 min read",
   image: "/img/blog/article-04/cover.webp",
   keywords: [
