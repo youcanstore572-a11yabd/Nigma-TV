@@ -2143,7 +2143,7 @@ export const blogPosts: BlogPost[] = [
 },
 
 {
-  number: 4,
+  id: "4",
   slug: "is-nigma-iptv-worth-it-final-review",
   title: "Is Nigma IPTV Worth It? Final Review, Pros, Cons & What to Check Before Buying",
   seoTitle: "Is Nigma IPTV Worth It? Review, Pros, Cons & Buying Guide",
