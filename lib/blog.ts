@@ -2145,9 +2145,8 @@ export const blogPosts: BlogPost[] = [
 {
   id: "4",
   slug: "is-nigma-iptv-worth-it-final-review",
-  title: "Is Nigma IPTV Worth It? Final Review, Pros, Cons & What to Check Before Buying",
-  seoTitle: "Is Nigma IPTV Worth It? Review, Pros, Cons & Buying Guide",
-  metaDescription: "Considering Nigma IPTV? Explore its advertised features, compatible devices, player options, subscription terms, refund policy, and important checks before buying.",
+  title: "Is Nigma IPTV Worth It? Review, Pros, Cons & Buying Guide",
+  description: "Considering Nigma IPTV? Explore its advertised features, compatible devices, player options, subscription terms, refund policy, and important checks before buying.",
   excerpt: "Thinking about choosing Nigma IPTV? This final guide explains what to evaluate, the advertised features, possible limitations, subscription conditions, and how to make a more informed decision.",
   date: "2026-11-03",
   author: "Olivia",
